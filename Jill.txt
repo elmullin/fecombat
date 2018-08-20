@@ -1,0 +1,13 @@
+Name Jill
+Class Dracoknight
+Level 8
+HP 24
+Max 24
+Str 11
+Mag 0
+Skill 10
+Sp 9
+Luck 6
+Def 11
+Res 2
+Weapon Steel Lance

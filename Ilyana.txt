@@ -1,0 +1,13 @@
+Name Ilyana
+Class Mage
+Level 6
+HP 20
+Max 20
+Str 1
+Mag 8
+Skill 10
+Sp 9
+Luck 6
+Def 3
+Res 10
+Weapon Thunder

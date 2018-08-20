@@ -1,4 +1,6 @@
 Name Boyd
+Class Fighter
+Level 1
 HP 18
 Max 18
 Str 6

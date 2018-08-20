@@ -1,0 +1,13 @@
+Name Soren
+Class Mage
+Level 1
+HP 18
+Max 18
+Str 0
+Mag 6
+Skill 8
+Sp 8
+Luck 5
+Def 2
+Res 7
+Weapon Wind

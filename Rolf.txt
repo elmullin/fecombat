@@ -1,0 +1,13 @@
+Name Rolf
+Class Archer
+Level 1
+HP 18
+Max 18
+Str 5
+Mag 0
+Skill 8
+Sp 6
+Luck 4
+Def 6
+Res 2
+Weapon Crossbow

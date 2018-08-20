@@ -1,0 +1,13 @@
+Name Dragon
+Class Red Dragon
+Level 2
+HP 20
+Max 20
+Str 5
+Mag 1
+Skill 5
+Sp 4
+Luck 0
+Def 10
+Res 0
+Weapon Red Breath A

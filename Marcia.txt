@@ -1,0 +1,13 @@
+Name Marcia
+Class Pegasus Knight
+Level 5
+HP 20
+Max 20
+Str 8
+Mag 0
+Skill 7
+Sp 11
+Luck 4
+Def 8
+Res 6
+Weapon Slim Lance

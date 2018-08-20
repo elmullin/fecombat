@@ -1,4 +1,6 @@
 Name Ike
+Class Ranger
+Level 1
 HP 19
 Max 19
 Str 5
@@ -8,4 +10,4 @@ Sp 7
 Luck 6
 Def 5
 Res 0
-Weapon Iron Sword
+Weapon Wyrmslayer

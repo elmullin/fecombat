@@ -1,8 +1,9 @@
-#classes by effectiveness
+#classes by effectiveness - add classes to lists for bonus damage effects
+#no weapon effectiveness vs all laguz implemented
 
 armor = ["Armor Knight", "General", "Marshall"]
 cavalry = ["Mage Knight", "Valkyrie", "Cavalry Knight", "Paladin", "Gold Knight", "Silver Knight"]
-flying = ["Pegasus Knight", "Falcon Knight", "Seraph Knight"]
+flying = ["Pegasus Knight", "Falcon Knight", "Seraph Knight", "Raven", "Hawk", "Heron"]
 dragon = ["Dracoknight", "Dragonmaster", "Dragonlord", "Red Dragon", "White Dragon", "Black Dragon"]
 beast = ["Cat", "Tiger", "Lion", "Wolf"]
 laguz = ["Cat", "Tiger", "Lion", "Wolf", "Raven", "Hawk", "Heron", "Red Dragon", "White Dragon", "Black Dragon"]

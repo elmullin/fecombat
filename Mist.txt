@@ -1,0 +1,13 @@
+Name Mist
+Class Cleric
+Level 1
+HP 16
+Max 16
+Str 1
+Mag 4
+Skill 4
+Sp 7
+Luck 6
+Def 2
+Res 7
+Weapon Heal
