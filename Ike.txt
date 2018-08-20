@@ -1,0 +1,11 @@
+Name Ike
+HP 19
+Max 19
+Str 5
+Mag 1
+Skill 6
+Sp 7
+Luck 6
+Def 5
+Res 0
+Weapon Iron Sword

@@ -1,0 +1,11 @@
+Name Boyd
+HP 18
+Max 18
+Str 6
+Mag 0
+Skill 5
+Sp 5
+Luck 3
+Def 3
+Res 0
+Weapon Iron Axe
