@@ -33,6 +33,9 @@ dragon = ["Wyrmslayer"]
 hpdrain = ["Nosferatu"]
 removeeffect = ["Wind Tail", "Fire Tail", "Thunder Tail", "Onager"]
 nocrit = ["Wind Tail", "Fire Tail", "Thunder Tail", "Bronze Knife", "Bronze Dagger", "Onager", "Bronze Bow", "Bronze Axe", "Bronze Lance", "Bronze Sword"]
+
+#staff stuff
+
 offensestaves = ["Sleep", "Elsleep", "Silence", "Elsilence"]
 healstaves = ["Heal", "Mend", "Physic", "Recover", "Fortify", "Matrona", "Ashera Staff"]
 rangedmag = ["Physic," "Fortify", "Matrona", "Silence", "Sleep"]
@@ -63,6 +66,8 @@ staffheal = {
 #requires commas between entries!
 
 weapons = {
+    "None": Weapon(0, 0, 0, 0, False, "none", []),
+    "None (Laguz)": Weapon(0, 0, 80, 0, False, "none", [1]),
     "Slim Sword": Weapon(3, 2, 100, 5, False, "sword", [1]),
     "Bronze Sword": Weapon(5, 3, 95, 0, False, "sword", [1]),
     "Iron Sword": Weapon(7, 6, 90, 0, False, "sword", [1]),

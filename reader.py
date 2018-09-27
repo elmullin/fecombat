@@ -422,6 +422,8 @@ def main():
                 staffcombat(unit1, unit2, rng)
             else:
                 print("Attacking from invalid range.")
+        elif unit1.weapon == "None (Laguz)" or unit1.weapon == "None":
+            print("Cannot initiate attack with that weapon.")
         else:
             checkcombat(unit1, unit2, int(rng))
 
